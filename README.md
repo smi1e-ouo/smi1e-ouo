@@ -1,4 +1,13 @@
-## Hi there 👋
+## 안녕하세요
+한국 대학생🌟
+
+게임 개발 공부중...
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+[velog: @smi1e_ouo](https://velog.io/@smi1e_ouo/posts)
 
 <!--
 **smi1e-ouo/smi1e-ouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
